@@ -10,14 +10,14 @@
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Mobile Development**
 - 📫 How to reach me **mf.mohamedfawzy0@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Mahmoud0&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Mahmoud0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedElsayed103&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedElsayed103" /> </p>
 
 <div> 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.github.com/Mohammed-Mahmoud0" target="blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.github.com/MohamedElsayed103" target="blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 <a href="https://linkedin.com/in/mohamed-mahmoud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mohamed-mahmoud0" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamedmahmoud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="mohamedmahmoud0" height="30" width="40" /></a><a href="https://codeforces.com/profile/m0hammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="m0hammed" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohamedelsayed103" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="mohamedelsayed103" height="30" width="40" /></a><a href="https://codeforces.com/profile/m0hammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="m0hammed" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100014857096148" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="profile.php?id=100014857096148" height="30" width="40" /></a>
 </p>
 
@@ -51,17 +51,17 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mahmoud0&layout=compact&theme=dark" alt=Mohammed-Mahmoud0 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElsayed103&layout=compact&theme=dark" alt=MohamedElsayed103 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Mahmoud0&show_icons=true&locale=en&theme=dark" alt="Mohammed-Mahmoud0" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedElsayed103&show_icons=true&locale=en&theme=dark" alt="MohamedElsayed103" /></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Mohammed-Mahmoud0">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammed-Mahmoud0&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammed-Mahmoud0&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammed-Mahmoud0&theme=github_dark" height="180em" />
+<a href="https://github.com/MohamedElsayed103">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedElsayed103&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedElsayed103&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedElsayed103&theme=github_dark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Mahmoud0&theme=github-compact"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElsayed103&theme=github-compact"/>
