@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced Java, Spring Boot, Design Patterns, and System Design**
 - 💬 Ask me about **Java, Spring Boot, OOP, Databases, Web Development, and Design Patterns**
-- ⚙️ I enjoy building **end-to-end applications** combining **frontend, backend, and AI**
-- 🚀 I’m currently working on **RAG-based AI projects** and **a Tourism Website**
-- 📫 Reach me at **mohamedelsayed.dev@gmail.com**
+- 📫 Reach me at **mohamed.elsayed.11011@gmail.com**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=MohamedElsayed103&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedElsayed103" /> 
@@ -21,8 +19,8 @@
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://github.com/MohamedElsayed103" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a>
-<a href="https://linkedin.com/in/mohamed-elsayed103" target="_blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/linked-in-alt.svg" width="40" height="30"/></a>
-<a href="https://fb.com/profile.php?id=100014857096148" target="_blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/facebook.svg" width="40" height="30"/></a>
+<a href="https://www.linkedin.com/in/mohamedelsyed/" target="_blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/linked-in-alt.svg" width="40" height="30"/></a>
+<a href="https://www.facebook.com/mohamed.Elsayed.10032003/" target="_blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/facebook.svg" width="40" height="30"/></a>
 </p>
 
 ---
